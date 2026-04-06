@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Allure (только временные файлы)
+allure_results/
+
+# IDE
+.idea/
+.vscode/
+*.iml
